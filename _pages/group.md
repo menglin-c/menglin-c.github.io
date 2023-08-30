@@ -7,29 +7,27 @@ author_profile: true
 
 ## Research Staff
 
-**Li Sijie** (Spring 2023-)
+**Li Sijie** (2023 - )
 - Ph.D., (Fall 2021 - ), Shanghai Jiao Tong University
-- B. Eng., (Fall 2017- Summer 2021)University of Electronic Science and Technology of China
+- B.Eng., (2017 - 2021), University of Electronic Science and Technology of China
 
 **Feng Jialin**
-- Ph.D., ( Fall 2017- ), Xi'an Jiaotong University
-- B. Eng., (Fall 2011-Summer 2015), Shaanxi Normal University
+- Ph.D., (Fall 2017 - ), Xi'an Jiaotong University
+- B.Eng., (2011 - 2015), Shanxi Normal University
 
-**Zhou Rui** (RA: 2023.05.08) Hong Kong Polytechnic University
-- Ph.D., (Fall 2022 -2025 ), Central China Normal University 
-- M. Phil., (Fall 2019 -2022 ), Central China Normal University
-- B. Eng., (Fall 2015 - 2019), Zhengzhou Normal University
+**Zhou Rui** (2023 - )
+- Ph.D., (Fall 2019 - ), Central China Normal University 
+- M.Phil., (2019 - 2022), Central China Normal University
+- B.Eng., (2015 - 2019), Zhengzhou Normal University
 
 ## Ph.D. Student
 
-**Li Yueyao** (Fall 2023-)
-- Ph.D., (Joint program 42601-FTD)
-  (Fall 2021- )Northwestern Polytechnical University
-- M. Phil, none
-- B. Eng., (Fall 2017-Spring 2021)Northwestern Polytechnical University
+**Li Yueyao** (Fall 2023 - )
+- Ph.D., (Fall 2021- ), (Joint program with Northwestern Polytechnical University)
+- B.Eng., (2017 - 2021), Northwestern Polytechnical University
 
-**Zhang Xinyu** (Fall 2023-)
-- Ph.D., (Collaborative program 42601-FTD)Eastern Institute of Technology
-- M. Phil,(Fall 2020 - Spring 2023)ShanghaiTech University
-- B. Eng.,(Fall 2015 - Spring 2019) Harbin Institute of Technology 
+**Zhang Xinyu** (Fall 2023 - )
+- Ph.D., (Collaborative program with Eastern Institute of Technology)
+- M.Phil, (2020 - 2023), ShanghaiTech University
+- B.Eng., (2015 - 2019), Harbin Institute of Technology 
 
