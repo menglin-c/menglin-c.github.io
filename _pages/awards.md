@@ -5,20 +5,24 @@ permalink: /awards/
 author_profile: true
 ---
 
-- **Young Scientist Award (2023)** 
-*Awarded by the Photonics and Electromagnetics Research Symposium (PIERS)in Prague,Czech Republic*
+- **Best Paper Award (2022)** 
+*Awarded by the 2022 IET International Conference on Advances in Power System Control, Operation and Management, Hong Kong*
 
-- **Young Scientist Award (2021)** 
-*Awarded by the International Applied Computational Electromagnetics Society Symposium in Chengdu,China (ACES-China)*
+- **Best Paper Award (2021)** 
+*Awarded by the 2021 IEEE IAS Industrial and Commercial Power System Asia, IEEE Industry Applications Society*
 
-- **Best Student Paper Award (2018)**
-*Awarded by the Photonics and Electromagnetics Research Symposium (PIERS)in Toyama,Japan*
+- **Best Paper Bronze (2020)**
+*Awarded by the 2020 International Conference on Power Electronics Systems and Applications, the IEEE Transportation Electrification Community*
 
-- **Best Student Paper Award (2017)**
-*Awarded by the International Applied Computational Electromagnetics Society Symposium (ACES)in Firenze,Italy*
+- **Highlighted Paper of IEEE Transactions on Power Electronics (2018)**
+*Awarded by the IEEE Power Electronics Society*
 
-- **Best Student Paper Award (2016)**
-*Awarded by the 17th IEEE MACAU/HK AP/MTT Postgraduate Conference in Macau SAR,China*
+- **Travel Grants in the Applied Power Electronics Conference and Exposition (2019)**
+*Awarded by the IEEE Power Electronics Society* 
 
-- **Certificate of Merit (2014)**
-*Awarded by the Hong Kong U-21 IoT Awards*
+- **Travel Grants in the Energy Conversion Conference and Exposition (2016)**
+*Awarded by the IEEE Power Electronics Society*
+
+- **Outstanding Teaching Assistant Award (2016)**
+*Awarded by the Department of Electrical and Electronic Engineering, HKU*
+
