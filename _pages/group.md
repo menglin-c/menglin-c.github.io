@@ -23,7 +23,7 @@ author_profile: true
 ## Ph.D. Student
 
 **Li Yueyao** (2023 - )
-- Ph.D., (Fall 2021 - ), Dual PhD Degree Programmes (POLYU & Northwestern Polytechnical University
+- Ph.D., (Fall 2021 - ), Dual PhD Degree Programmes (POLYU & Northwestern Polytechnical University)
 - B.Eng., Northwestern Polytechnical University
 
 **Zhang Xinyu** (2023 - )
