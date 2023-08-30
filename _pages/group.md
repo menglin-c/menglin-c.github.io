@@ -22,12 +22,12 @@ author_profile: true
 
 ## Ph.D. Students
 
-**Li Yueyao** (Fall 2023 - )
-- Ph.D., (Fall 2021- ), POLYU Joint program with Northwestern Polytechnical University
+**Li Yueyao** (2023 - )
+- Ph.D., (Fall 2021 - ), POLYU Joint program with Northwestern Polytechnical University
 - B.Eng., Northwestern Polytechnical University
 
-**Zhang Xinyu** (Fall 2023 - )
-- Ph.D., (Fall 2021- ), POLYU Collaborative program with Eastern Institute of Technology
+**Zhang Xinyu** (2023 - )
+- Ph.D., (Fall 2023 - ), POLYU Collaborative program with Eastern Institute of Technology
 - M.Phil, ShanghaiTech University
 - B.Eng., Harbin Institute of Technology 
 
