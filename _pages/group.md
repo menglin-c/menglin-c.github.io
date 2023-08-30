@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-## Research Staffs
+## Research Staff
 
 **Li Sijie** (2023 - )
 - Ph.D., (Fall 2021 - ), Shanghai Jiao Tong University
@@ -20,7 +20,7 @@ author_profile: true
 - M.Phil., Central China Normal University
 - B.Eng., Zhengzhou Normal University
 
-## Ph.D. Students
+## Ph.D. Student
 
 **Li Yueyao** (2023 - )
 - Ph.D., (Fall 2021 - ), Dual PhD Degree Programmes (POLYU & Northwestern Polytechnical University
