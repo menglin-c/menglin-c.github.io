@@ -11,7 +11,7 @@ author_profile: true
 - Ph.D., (Fall 2021 - ), Shanghai Jiao Tong University
 - B.Eng., University of Electronic Science and Technology of China
 
-**Feng Jialin**
+**Feng Jialin** (2023 - )
 - Ph.D., (Fall 2017 - ), Xi'an Jiaotong University
 - B.Eng., Shanxi Normal University
 
