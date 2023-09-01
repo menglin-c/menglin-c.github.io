@@ -26,7 +26,7 @@ redirect_from:
 
 # Open for Applications
 
-Dr CHEN is looking actively for Ph.D., Research Associate and Postdoctoral candidates. The detailed requirements are listed below. Interested researchers can send me the CV via email (menglin.chen@polyu.edu.hk), indicating your name, research area, targeting post, and graduation instituition in the Email Subject.
+I am looking actively for Ph.D., Research Associate and Postdoctoral candidates. The detailed requirements are listed below. Interested researchers can send me the CV via email (menglin.chen@polyu.edu.hk), indicating your name, research area, targeting post, and graduation instituition in the Email Subject.
 
 - **PhD candidates**
 
