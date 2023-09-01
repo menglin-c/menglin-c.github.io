@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-1. Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces and photonic crystals.
+1. Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals.
 
 
 2. Exploration of topological electromagnetic effects and their applications in microwave/millimeter wave engineering.
