@@ -7,27 +7,27 @@ author_profile: true
 
 ## Research Staff
 
-**Li Sijie** (2023 - )
-- Ph.D., (Fall 2021 - ), Shanghai Jiao Tong University
+**Li Sijie** (2023 – )
+- Ph.D., (Fall 2021 – ), Shanghai Jiao Tong University
 - B.Eng., University of Electronic Science and Technology of China
 
-**Feng Jialin** (2023 - )
-- Ph.D., (Fall 2017 - ), Xi'an Jiaotong University
+**Feng Jialin** (2023 – )
+- Ph.D., (Fall 2017 – ), Xi'an Jiaotong University
 - B.Eng., Shanxi Normal University
 
-**Zhou Rui** (2023 - )
-- Ph.D., (Fall 2019 - ), Central China Normal University 
+**Zhou Rui** (2023 – )
+- Ph.D., (Fall 2019 – ), Central China Normal University 
 - M.Phil., Central China Normal University
 - B.Eng., Zhengzhou Normal University
 
 ## Ph.D. Student
 
-**Li Yueyao** (2023 - )
-- Ph.D., (Fall 2021 - ), Dual PhD Degree Programmes (POLYU & Northwestern Polytechnical University)
+**Li Yueyao** (2023 – )
+- Ph.D., (Fall 2021 – ), Dual PhD Degree Programmes (POLYU & Northwestern Polytechnical University)
 - B.Eng., Northwestern Polytechnical University
 
-**Zhang Xinyu** (2023 - )
-- Ph.D., (Fall 2023 - ), Collaborative PhD Training Programmes (POLYU & EIAS)
+**Zhang Xinyu** (2023 – )
+- Ph.D., (Fall 2023 – ), Collaborative PhD Training Programmes (POLYU & EIAS)
 - M.Phil, ShanghaiTech University
 - B.Eng., Harbin Institute of Technology 
 
