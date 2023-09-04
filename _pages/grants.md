@@ -11,5 +11,5 @@ author_profile: true
 
 -	Jun. 2023 – Jun. 2025, **PolyU Start-Up Fund**, Artificial materials based novel devices by engaging topological waves in next-generation communication systems (**PI**), HK$ 250,000.
 
--	Jul. 20223 – Dec. 2024, **Shenzhen Power Supply Bureau Co., Ltd (Collaborative Project)**, System inertia analysis and control of renewable penetrated power systems towards national dual carbon targets (**Co-PI**), HK$ 1,454,048.
+-	Jul. 20223 – Dec. 2024, **Shenzhen Power Supply Bureau Co., Ltd (Collaborative Project)**, System inertia analysis and control of renewable penetrated power systems towards national dual carbon targets (**Co-I**), HK$ 1,454,048.
 
