@@ -26,7 +26,7 @@ Dr. Chen is a Research Assistant Professor at the Hong Kong Polytechnic Universi
 
 # Open for Applications
 
-I am looking actively for Ph.D., Research Associate and Postdoctoral candidates. The detailed requirements are listed below. Interested researchers are welcomed to send me your CV via email (menglin.chen@polyu.edu.hk), indicating your name, research area, targeting post, and graduation instituition in the Email Subject.
+I am looking actively for Ph.D., Research Associate, and Postdoctoral candidates. The detailed requirements are listed below. Interested researchers are welcomed to send me your CV via email (menglin.chen@polyu.edu.hk), indicating your name, research area, targeting post, and graduation instituition in the Email Subject.
 
 - **PhD candidates**
 
