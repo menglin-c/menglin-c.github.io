@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CHEN Menglin 陈梦琳"
+title: "CHEN Menglin 陳梦琳"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
