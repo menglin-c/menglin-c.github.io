@@ -4,7 +4,6 @@ title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
-# Research Interests
 1. Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals.
 
 
