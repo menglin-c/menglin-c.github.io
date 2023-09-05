@@ -13,7 +13,7 @@ redirect_from:
 <br>
 
 # News
-- **Aug. 2023**: Our paper “Coexistence of Large-area Topological Pseudospin and Valley States in a Triband Heterostructure System” is accepted by *Optics Letters*.  <https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
+- **[2023-08]**: Our paper “Coexistence of Large-area Topological Pseudospin and Valley States in a Triband Heterostructure System” is accepted by *Optics Letters*.  <https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
 
 - **Jul. 2023**: I am honored to receive the *PIERS Young Scientist Award*. [[Link]](https://piers.org/awards/young-scientist-award.html)
 
