@@ -4,7 +4,7 @@ title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
-
+# Research Interests
 1. Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals.
 
 
@@ -15,7 +15,7 @@ author_profile: true
 
 <br>
 
-# News
+# Research Grants
 -	Jan. 2024 – Dec. 2026,  **NSFC (青年科学基金项目)**, 基于拓扑电磁结构的波导器件多物理理论及应用研究 (**PI**), RMB$ 300,000.
 
 -	Jan. 2024 - Jan. 2025, **PolyU Postdoctor Matching Fund**, (**PI**), HK$ 365,000.
