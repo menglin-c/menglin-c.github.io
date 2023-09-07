@@ -15,7 +15,7 @@ I received the *PIERS Young Scientist Award* in 2023, the *ACES Young Scientist 
 <br>
 
 # News
-- **[2023-08]** Our paper “Coexistence of Large-area Topological Pseudospin and Valley States in a Tri-band Heterostructure System” is accepted by *Optics Letters*.  <https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
+- **[2023-08]** Our paper “Coexistence of large-area topological pseudospin and valley states in a tri-band heterostructure system” is accepted by *Optics Letters*.  <https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
 
 - **[2023-07]** I am honored to receive the *PIERS Young Scientist Award*. [[Link]](https://piers.org/awards/young-scientist-award.html)
 
