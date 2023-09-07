@@ -17,7 +17,7 @@ I received the *PIERS Young Scientist Award* in 2023, the *ACES Young Scientist 
 # News
 - **[2023-08]** Our paper “Coexistence of Large-area Topological Pseudospin and Valley States in a Triband Heterostructure System” is accepted by *Optics Letters*.  <https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
 
-- **[2028-07]** I am honored to receive the *PIERS Young Scientist Award*. [[Link]](https://piers.org/awards/young-scientist-award.html)
+- **[2023-07]** I am honored to receive the *PIERS Young Scientist Award*. [[Link]](https://piers.org/awards/young-scientist-award.html)
 
 - **[2023-04]** Our paper “Large-area quantum-spin-Hall waveguide states in a three-layer topological photonic crystal heterostructure” is accepted by *Physical Review A*.  <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.L041501>
 
