@@ -21,7 +21,7 @@ I received the *PIERS Young Scientist Award* in 2023, the *ACES Young Scientist 
 
 - **[2023-04]** Our paper “Large-area quantum-spin-Hall waveguide states in a three-layer topological photonic crystal heterostructure” is accepted by *Physical Review A*.  <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.L041501>
 
-- **[2022-09]** Our paper “Anomalous electromagnetic tunneling in bianisotropic ε-μ-zero media” is accepted by *Physical Review Letters* and selected as Editors’ Suggestion.   <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901>
+- **[2022-09]** Our paper “Anomalous electromagnetic tunneling in bianisotropic ε-μ-zero media” is accepted by *Physical Review Letters* and selected as “Editors’ Suggestion”.   <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901>
 
 
 <br>
