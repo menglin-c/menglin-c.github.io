@@ -16,7 +16,7 @@ I received the *PIERS Young Scientist Award* in 2023, the *ACES Young Scientist 
 
 # News
 - **[2023-12]** Our paper “Protected transverse electric waves in topological dielectric waveguides” is accepted by *IEEE Transactions on Antennas and Propagation*.  <https://ieeexplore.ieee.org/document/10341331>
-- 
+
 - **[2023-08]** Our paper “Coexistence of large-area topological pseudospin and valley states in a tri-band heterostructure system” is accepted by *Optics Letters*.  <https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
 
 - **[2023-07]** I am honored to receive the *PIERS Young Scientist Award*. [[Link]](https://piers.org/awards/young-scientist-award.html)
