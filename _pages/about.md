@@ -19,13 +19,16 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 
 - **[2024-03]** Our paper “Spin and orbital angular momenta of electromagnetic waves: From classical to quantum forms” is accepted by *IEEE Journal on Multiscale and Multiphysics Computational Techniques*.  <https://ieeexplore.ieee.org/document/10341331>
  
-- **[2023-12]** Our paper “Protected transverse electric waves in topological dielectric waveguides” is accepted by *IEEE Transactions on Antennas and Propagation*.  <https://ieeexplore.ieee.org/document/10341331>
+- **[2023-12]** Our paper “Protected transverse electric waves in topological dielectric waveguides” is accepted by *IEEE Transactions on Antennas and Propagation*.
+<https://ieeexplore.ieee.org/document/10341331>
 
-- **[2023-08]** Our paper “Coexistence of large-area topological pseudospin and valley states in a tri-band heterostructure system” is accepted by *Optics Letters*.  <https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
+- **[2023-08]** Our paper “Coexistence of large-area topological pseudospin and valley states in a tri-band heterostructure system” is accepted by *Optics Letters*.
+<https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
 
 - **[2023-07]** I am honored to receive the *PIERS Young Scientist Award* in Prague, Czech Republic. [[Link]](https://piers.org/awards/young-scientist-award.html)
 
-- **[2023-04]** Our paper “Large-area quantum-spin-Hall waveguide states in a three-layer topological photonic crystal heterostructure” is accepted by *Physical Review A*.  <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.L041501>
+- **[2023-04]** Our paper “Large-area quantum-spin-Hall waveguide states in a three-layer topological photonic crystal heterostructure” is accepted by *Physical Review A*.
+<https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.L041501>
 
 - **[2022-09]** Our paper “Anomalous electromagnetic tunneling in bianisotropic ε-μ-zero media” is accepted by *Physical Review Letters* and selected as “Editors’ Suggestion”.   <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901>
 
