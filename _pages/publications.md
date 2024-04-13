@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
--	 W. E. I. Sha, Z. Lan, **M. L. N. Chen**, Y. P. Chen, and S. Sun, “[Spin and Orbital Angular Momenta of Electromagnetic Waves: From Classical to Quantum Forms](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.064042),” *Physical Review Applied*, vol. 16, no. 6, pp. 064042, Dec. 2021.
+-	 W. E. I. Sha, Z. Lan, **M. L. N. Chen**, Y. P. Chen, and S. Sun, “[Spin and Orbital Angular Momenta of Electromagnetic Waves: From Classical to Quantum Forms](https://ieeexplore.ieee.org/abstract/document/10453653),” *IEEE Journal on Multiscale and Multiphysics Computational Techniques*, vol. 9, pp. 113-117, Mar. 2024.
 -  R. Zhou,  **M. L. N. Chen**, X. Shi, Y. Ren, Z. Yu. Y. Tian, Y. Liu, and H. Lin, “[Protected transverse electric waves in topological dielectric waveguides](https://ieeexplore.ieee.org/document/10341331),” *IEEE Transactions on Antennas and Propagation*, accepted, Dec. 2023.
 -  S. Li,  **M. L. N. Chen**, Z. Lan, and P. Li, “[Coexistence of large-area topological pseudospin and valley states in a tri-band heterostructure system](https://doi.org/10.1364/OL.501977),” *Optics Letters*, vol. 48, no. 17, pp. 4693-4696, Sep. 2023.
 -	 Z. Lan, **M. L. N. Chen**, J. W. You, and W. E. I. Sha, “[Large-area quantum-spin-Hall waveguide states in a three-layer topological photonic crystal heterostructure](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.L041501),” *Physical Review A*, vol. 107, no. 4, pp. L041501, Apr. 2023.
