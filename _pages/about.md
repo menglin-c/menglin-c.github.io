@@ -15,7 +15,7 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 <br>
 
 # News
-- **[2023-05]** I am honored to receive the *URSI Young Scientist Award* in Gran Canaria, Spain. 
+- **[2024-05]** I am honored to receive the *URSI Young Scientist Award* in Gran Canaria, Spain. 
 
 - **[2023-12]** Our paper “Protected transverse electric waves in topological dielectric waveguides” is accepted by *IEEE Transactions on Antennas and Propagation*.  <https://ieeexplore.ieee.org/document/10341331>
 
