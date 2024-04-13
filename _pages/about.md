@@ -10,16 +10,18 @@ redirect_from:
 
 I am currently a Research Assistant Professor in the Department of Electrical and Electronic Engineering at Hong Kong Polytechnic University. I received the B.S. degree from Huazhong University of Science and Technology, Wuhan, China, the B.Eng. degree from the University of Birmingham, U.K. in 2012, the M.S. degree and Ph.D. degree from the University of Hong Kong (HKU) in 2013 and 2018, respectively. I had been an academic visitor in the School of Electronic Engineering and Computer Science at Queen Mary, University of London from May 2017 to October 2017. I was a Postdoctoral Research Fellow at HKU from 2018 to 2022. 
 
-I received the *PIERS Young Scientist Award* in 2023, the *ACES Young Scientist Award* in 2021, and various student paper awards. So far, I have published 20 top-tier journals (12 journals as the first author, 1 journal as the corresponding author) and 3 book chapters. One of my first-author manuscripts published in *Physical Review Letters* was selected as “Editors’ Suggestion” in 2022. One of my first-author manuscripts was selected as “the ESI highly-cited paper (top 1%)” in 2019. One of my first-author manuscripts published in *Applied Sciences* was selected as “Featured Papers” in 2018. My research interests include (i) Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals, (ii) topological electromagnetics and its applications in microwave/millimeter wave engineering, and (iii) novel antenna and metasurface design in IoT-based smart buildings.
+I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Award* in 2023, *ACES Young Scientist Award* in 2021, and various student paper awards. So far, I have published 20 top-tier journals (12 journals as the first author, 1 journal as the corresponding author) and 3 book chapters. One of my first-author manuscripts published in *Physical Review Letters* was selected as “Editors’ Suggestion” in 2022. One of my first-author manuscripts was selected as “the ESI highly-cited paper (top 1%)” in 2019. One of my first-author manuscripts published in *Applied Sciences* was selected as “Featured Papers” in 2018. My research interests include (i) Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals, (ii) topological electromagnetics and its applications in microwave/millimeter wave engineering, and (iii) novel antenna and metasurface design in IoT-based smart buildings.
 
 <br>
 
 # News
+- **[2023-05]** I am honored to receive the *URSI Young Scientist Award* in Gran Canaria, Spain. 
+
 - **[2023-12]** Our paper “Protected transverse electric waves in topological dielectric waveguides” is accepted by *IEEE Transactions on Antennas and Propagation*.  <https://ieeexplore.ieee.org/document/10341331>
 
 - **[2023-08]** Our paper “Coexistence of large-area topological pseudospin and valley states in a tri-band heterostructure system” is accepted by *Optics Letters*.  <https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
 
-- **[2023-07]** I am honored to receive the *PIERS Young Scientist Award*. [[Link]](https://piers.org/awards/young-scientist-award.html)
+- **[2023-07]** I am honored to receive the *PIERS Young Scientist Award* in Prague, Czech Republic. [[Link]](https://piers.org/awards/young-scientist-award.html)
 
 - **[2023-04]** Our paper “Large-area quantum-spin-Hall waveguide states in a three-layer topological photonic crystal heterostructure” is accepted by *Physical Review A*.  <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.L041501>
 
