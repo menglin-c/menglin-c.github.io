@@ -31,3 +31,15 @@ author_profile: true
 - M.Phil, ShanghaiTech University
 - B.Eng., Harbin Institute of Technology 
 
+## M.Phil. Student
+
+**Guo Yiling** (2024 – )
+- M. Phil, (Spring 2024 – ), POLYU
+- M.Sc., Queen Mary University of London
+- B.Eng., Huaqiao University 
+
+## Visiting Scholar
+
+**Huang Chengnian** (2024 – )
+- Ph.D., (Fall 2020 – ), Zhejiang University
+- B.Eng., Xiamen University
