@@ -15,7 +15,7 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 <br>
 
 # News
-- **[2024-05]** I am honored to receive the **URSI Young Scientist Award** in Gran Canaria, Spain. [[Link]](https://ursi.org/young_scientists.php）
+- **[2024-05]** I am honored to receive the **URSI Young Scientist Award** in Gran Canaria, Spain. [[Link]](https://ursi.org/young_scientists.php)
 
 - **[2024-03]** Our paper “Spin and orbital angular momenta of electromagnetic waves: From classical to quantum forms” is accepted by *IEEE Journal on Multiscale and Multiphysics Computational Techniques*. <https://ieeexplore.ieee.org/abstract/document/10453653>
  
