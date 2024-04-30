@@ -5,6 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
+- **2024: Young Scientist Award** \
+*Awarded by URSI Atlantic Radio Science Conference (URSI AT-RASC) in Gran Canaria, Spain*
+
 - **2023: Young Scientist Award** \
 *Awarded by the Photonics and Electromagnetics Research Symposium (PIERS) in Prague,Czech Republic*
 
