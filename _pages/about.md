@@ -15,6 +15,8 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 <br>
 
 # News
+- **[2024-10]** Our paper “Observation of spatiotemporal dynamics for topological surface state with on-demand dispersion” is accepted by *Photonics Research*.
+- 
 - **[2024-10]** Our paper “Reconfigurable photonic valley filter in hybrid topological heterostructures” is accepted by *Laser & Photonics Reviews*.
 
 - **[2024-05]** I am honored to receive the **URSI Young Scientist Award** in Gran Canaria, Spain. [[Link]](https://ursi.org/young_scientists.php)
