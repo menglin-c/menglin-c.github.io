@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Papers
 -	 Z. Zhang, Z. Lan, P. Xu, L. Wu, **M. L. N. Chen**, W. E. I. Sha, Y. Xu, and Y. Qin, “Observation of spatiotemporal dynamics for topological surface state with on-demand dispersion,” *Photonics Research*, accepted, Oct. 2024.
--  X. Zhang, S. Li, Z. Lan, W. Gao, and **M. L. N. Chen**, “[Reconfigurable Photonic Valley Filter in Hybrid Topological Heterostructures,” *Laser & Photonics Reviews](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400797),* 2400797, Oct. 2024. **[Corresponding author]**
+-  X. Zhang, S. Li, Z. Lan, W. Gao, and **M. L. N. Chen**, “[Reconfigurable Photonic Valley Filter in Hybrid Topological Heterostructures](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400797),” *Laser & Photonics Reviews*, 2400797, Oct. 2024. **[Corresponding author]**
 -	 W. E. I. Sha, Z. Lan, **M. L. N. Chen**, Y. P. Chen, and S. Sun, “[Spin and Orbital Angular Momenta of Electromagnetic Waves: From Classical to Quantum Forms](https://ieeexplore.ieee.org/abstract/document/10453653),” *IEEE Journal on Multiscale and Multiphysics Computational Techniques*, vol. 9, pp. 113-117, Mar. 2024.
 -  R. Zhou,  **M. L. N. Chen**, X. Shi, Y. Ren, Z. Yu. Y. Tian, Y. Liu, and H. Lin, “[Protected Transverse Electric Waves in Topological Dielectric Waveguides](https://ieeexplore.ieee.org/document/10341331),” *IEEE Transactions on Antennas and Propagation*, vol. 72, no. 2, pp. 2058-2063, Feb. 2024. **[Corresponding author]**
 -  S. Li,  **M. L. N. Chen**, Z. Lan, and P. Li, “[Coexistence of large-area topological pseudospin and valley states in a tri-band heterostructure system](https://doi.org/10.1364/OL.501977),” *Optics Letters*, vol. 48, no. 17, pp. 4693-4696, Sep. 2023. **[Corresponding author]**
