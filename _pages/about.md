@@ -17,11 +17,11 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 # News
 - **[2024-10]** Our paper “Observation of spatiotemporal dynamics for topological surface state with on-demand dispersion” is accepted by *Photonics Research*. <https://opg.optica.org/prj/abstract.cfm?doi=10.1364/PRJ.530245>
 
-- **[2024-10]** Our paper “Reconfigurable photonic valley filter in hybrid topological heterostructures” is accepted by *Laser & Photonics Reviews*. <https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400797>
+- **[2024-10]** Our paper “Reconfigurable photonic valley filter in hybrid topological heterostructures” is accepted by *Laser & Photonics Reviews. <https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400797>
 
 - **[2024-05]** I am honored to receive the **URSI Young Scientist Award** in Gran Canaria, Spain. [[Link]](https://ursi.org/young_scientists.php)
 
-- **[2024-03]** Our paper “Spin and orbital angular momenta of electromagnetic waves: From classical to quantum forms” is accepted by *IEEE Journal on Multiscale and Multiphysics Computational Techniques*.<https://ieeexplore.ieee.org/abstract/document/10453653>
+- **[2024-03]** Our paper “Spin and orbital angular momenta of electromagnetic waves: From classical to quantum forms” is accepted by *IEEE Journal on Multiscale and Multiphysics Computational Techniques*. <https://ieeexplore.ieee.org/abstract/document/10453653>
  
 - **[2023-12]** Our paper “Protected transverse electric waves in topological dielectric waveguides” is accepted by *IEEE Transactions on Antennas and Propagation*. <https://ieeexplore.ieee.org/document/10341331>
 
