@@ -21,6 +21,10 @@ author_profile: true
 - B.Eng., Zhengzhou Normal University
 
 ## Ph.D. Student
+**Chen Xuelong** (2024 – )
+- Ph.D. (Fall 2024 – ), Collaborative PhD Training Programmes (POLYU & EIAS)
+- M.Sc., The Hong Kong Polytechnic University
+- B.Eng., Universiti Putra Malaysia
 
 **Li Yueyao** (2023 – )
 - Ph.D. (Fall 2021 – ), Dual PhD Degree Programmes (POLYU & Northwestern Polytechnical University)
