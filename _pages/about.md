@@ -15,7 +15,7 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 <br>
 
 # News
-- **[2024-10]** Our paper “Observation of spatiotemporal dynamics for topological surface state with on-demand dispersion” is accepted by *Photonics Research*. <https://opg.optica.org/prj/abstract.cfm?doi=10.1364/PRJ.530245>
+- **[2024-10]** Our paper “Observation of spatiotemporal dynamics for topological surface state with on-demand dispersion” is accepted by *Photonics Research*. <https://opg.optica.org/prj/fulltext.cfm?uri=prj-12-12-2919&id=564836>
 
 - **[2024-10]** Our paper “Reconfigurable photonic valley filter in hybrid topological heterostructures” is accepted by Laser & Photonics Reviews. <https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400797>
 
