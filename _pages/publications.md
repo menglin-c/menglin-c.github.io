@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
--	 Z. Zhang, Z. Lan, P. Xu, L. Wu, **M. L. N. Chen**, W. E. I. Sha, Y. Xu, and Y. Qin, “Observation of spatiotemporal dynamics for topological surface state with on-demand dispersion,” *Photonics Research*, vol. 12, no. 12, pp. 2919-2930, Dec. 2024.
+-	 Z. Zhang, Z. Lan, P. Xu, L. Wu, **M. L. N. Chen**, W. E. I. Sha, Y. Xu, and Y. Qin, “[Observation of spatiotemporal dynamics for topological surface state with on-demand dispersion](https://opg.optica.org/prj/fulltext.cfm?uri=prj-12-12-2919&id=564836),” *Photonics Research*, vol. 12, no. 12, pp. 2919-2930, Dec. 2024.
 -  X. Zhang, S. Li, Z. Lan, W. Gao, and **M. L. N. Chen**, “[Reconfigurable Photonic Valley Filter in Hybrid Topological Heterostructures](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400797),” *Laser & Photonics Reviews*, 2400797, Oct. 2024. **[Corresponding author]**
 -	 W. E. I. Sha, Z. Lan, **M. L. N. Chen**, Y. P. Chen, and S. Sun, “[Spin and Orbital Angular Momenta of Electromagnetic Waves: From Classical to Quantum Forms](https://ieeexplore.ieee.org/abstract/document/10453653),” *IEEE Journal on Multiscale and Multiphysics Computational Techniques*, vol. 9, pp. 113-117, Mar. 2024.
 -  R. Zhou,  **M. L. N. Chen**, X. Shi, Y. Ren, Z. Yu. Y. Tian, Y. Liu, and H. Lin, “[Protected Transverse Electric Waves in Topological Dielectric Waveguides](https://ieeexplore.ieee.org/document/10341331),” *IEEE Transactions on Antennas and Propagation*, vol. 72, no. 2, pp. 2058-2063, Feb. 2024. **[Corresponding author]**
