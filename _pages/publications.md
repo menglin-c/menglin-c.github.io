@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
--	 C. Huang, Z. Lan, **M. L. N. Chen**, and W. E. I. Sha, “[Extraction of power transmission parameters from PT-symmetric waveguides](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-3162&id=567195),” *Optics Express*, vol. 33, no. 2, pp. 3162-3176, Jan. 2025.
+-	 C. Huang, Z. Lan, **M. L. N. Chen**, and W. E. I. Sha, “[Extraction of power transmission parameters from PT-symmetric waveguides](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-3162&id=567195),” *Optics Express*, vol. 33, no. 2, pp. 3162-3176, Jan. 2025. **[Corresponding author]**
 -	 Z. Zhang, Z. Lan, P. Xu, L. Wu, **M. L. N. Chen**, W. E. I. Sha, Y. Xu, and Y. Qin, “[Observation of spatiotemporal dynamics for topological surface state with on-demand dispersion](https://opg.optica.org/prj/fulltext.cfm?uri=prj-12-12-2919&id=564836),” *Photonics Research*, vol. 12, no. 12, pp. 2919-2930, Dec. 2024.
 -  X. Zhang, S. Li, Z. Lan, W. Gao, and **M. L. N. Chen**, “[Reconfigurable Photonic Valley Filter in Hybrid Topological Heterostructures](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400797),” *Laser & Photonics Reviews*, 2400797, Oct. 2024. **[Corresponding author]**
 -	 W. E. I. Sha, Z. Lan, **M. L. N. Chen**, Y. P. Chen, and S. Sun, “[Spin and Orbital Angular Momenta of Electromagnetic Waves: From Classical to Quantum Forms](https://ieeexplore.ieee.org/abstract/document/10453653),” *IEEE Journal on Multiscale and Multiphysics Computational Techniques*, vol. 9, pp. 113-117, Mar. 2024.
