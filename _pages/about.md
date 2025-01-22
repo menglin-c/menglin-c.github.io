@@ -15,6 +15,8 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 <br>
 
 # News
+- **[2025-01]** Our paper “Extraction of power transmission parameters from PT-symmetric waveguides” is accepted by *Optics Express*. <https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-3162&id=567195>
+
 - **[2024-10]** Our paper “Observation of spatiotemporal dynamics for topological surface state with on-demand dispersion” is accepted by *Photonics Research*. <https://opg.optica.org/prj/fulltext.cfm?uri=prj-12-12-2919&id=564836>
 
 - **[2024-10]** Our paper “Reconfigurable photonic valley filter in hybrid topological heterostructures” is accepted by Laser & Photonics Reviews. <https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400797>
