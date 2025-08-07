@@ -15,7 +15,7 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 <br>
 
 # News
-- **[2025-08]** I am pleased to annouce that our student received the **IEEE APCAP Student Paper Award** in Christchurch, New Zealand. [[Link]](https://www.ieee-apcap.org/)
+- **[2025-08]** I am pleased to announce that our student received the **IEEE APCAP Student Paper Award** in Christchurch, New Zealand. [[Link]](https://www.ieee-apcap.org/)
 
 - **[2025-02]** Our paper “Microwave Photonic-Based Step Frequency Reflectometry for Electronic Circuit Defect Detection” is accepted by *IEEE Transactions on Microwave Theory and Techniques*. <https://ieeexplore.ieee.org/document/10903202>
 
