@@ -4,7 +4,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-- **2025: Student Paper Award** \
+- **2025: Student Paper Award** (as supervisor) \
 *Awarded by the 13th Asia-Pacific Conference on Antennas and Propagation (APCAP) in Christchurch, New Zealand*
 
 - **2024: Young Scientist Award** \
