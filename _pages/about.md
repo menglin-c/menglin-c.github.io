@@ -15,7 +15,7 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 <br>
 
 # News
-- **[2024-10]** Our paper “An Autonomous Current Balancing Method for Interleaved DC/DC Converter in Wireless Power Transfer Systems,” is accepted by *IEEE Transactions on Industrial Electronics,*. <https://ieeexplore.ieee.org/document/11223892>
+- **[2025-11]** Our paper “An Autonomous Current Balancing Method for Interleaved DC/DC Converter in Wireless Power Transfer Systems,” is accepted by *IEEE Transactions on Industrial Electronics,*. <https://ieeexplore.ieee.org/document/11223892>
    
 - **[2025-08]** I am pleased to announce that our student received the **IEEE APCAP Student Paper Award** in Christchurch, New Zealand. [[Link]](https://www.ieee-apcap.org/)
 
