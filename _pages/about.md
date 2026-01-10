@@ -15,7 +15,7 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 <br>
 
 # News
-- **[2025-12]** Our paper “Super-robust telecommunications enabled by topological half-supermodes” is accepted by *Advanced Science*. Congratulations to our group members! 
+- **[2025-12]** Our paper “Super-robust telecommunications enabled by topological half-supermodes” is accepted by *Advanced Science*. <https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202515157> 
 
 - **[2025-11]** Our paper “An Autonomous Current Balancing Method for Interleaved DC/DC Converter in Wireless Power Transfer Systems” is accepted by *IEEE Transactions on Industrial Electronics*. <https://ieeexplore.ieee.org/document/11223892>
    
