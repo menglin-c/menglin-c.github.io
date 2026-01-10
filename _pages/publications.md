@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
--  R. Zhou, X. Shi, H. Lin, Y. Ren, Y. Liu, Z. Yu, J. Jin, Z. Lan, and **M. L. N. Chen**, “[Super-Robust Telecommunications Enabled by Topological Half-Supermodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202515157),” *Advanced Science*, Early View, Jan. 2026. **[Corresponding author]**
+-  R. Zhou, X. Shi, H. Lin, Y. Ren, H. Liu, Z. Yu, J. Jin, Z. Lan, and **M. L. N. Chen**, “[Super-Robust Telecommunications Enabled by Topological Half-Supermodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202515157),” *Advanced Science*, Early View, Jan. 2026. **[Corresponding author]**
 -  Z. Xu, **M. L. N. Chen**, K. Li, M. Wang, X. Su, and Z. Xu, “[An Autonomous Current Balancing Method for Interleaved DC/DC Converter in Wireless Power Transfer Systems](https://ieeexplore.ieee.org/document/11223892),” *IEEE Transactions on Industrial Electronics*, vol. XX, no. XX, pp. XXXX-XXXX, Nov. 2025. **[Corresponding author]**
 -	 Y. Guo, M. Lin, W. Lin, S. Zheng, and **M. L. N. Chen**, “[Microwave Photonic-Based Step Frequency Reflectometry for Electronic Circuit Defect Detection](https://ieeexplore.ieee.org/document/10903202),” *IEEE Transactions on Microwave Theory and Techniques*, vol. 73, no. 8, pp. 5327-5339, Aug. 2025. **[Corresponding author]**
 -	 C. Huang, Z. Lan, **M. L. N. Chen**, and W. E. I. Sha, “[Extraction of power transmission parameters from PT-symmetric waveguides](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-3162&id=567195),” *Optics Express*, vol. 33, no. 2, pp. 3162-3176, Jan. 2025. **[Corresponding author]**
