@@ -1,4 +1,5 @@
 ---
+layout: archive  
 permalink: /
 title: "CHEN Menglin 陳梦琳"
 excerpt: "About me"
