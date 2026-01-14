@@ -19,7 +19,7 @@ I received the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Awar
 - **[2025-12]** Our paper “[Super-Robust Telecommunications Enabled by Topological Half-Supermodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202515157)” is accepted by *Advanced Science*.  
 - **[2025-11]** Our paper “[An Autonomous Current Balancing Method for Interleaved DC/DC Converter in Wireless Power Transfer Systems](https://ieeexplore.ieee.org/document/11223892)” is accepted by *IEEE Transactions on Industrial Electronics*. 
    
-- **[2025-08]** I am pleased to announce that our student received the **IEEE APCAP Student Paper Award** in Christchurch, New Zealand. [[Link]](https://www.ieee-apcap.org/)
+- **[2025-08]** I am pleased to announce that our student received the **[IEEE APCAP Student Paper Award]**(https://www.ieee-apcap.org/) in Christchurch, New Zealand. [[Link]](https://www.ieee-apcap.org/)
 
 - **[2025-02]** Our paper “Microwave Photonic-Based Step Frequency Reflectometry for Electronic Circuit Defect Detection” is accepted by *IEEE Transactions on Microwave Theory and Techniques*. <https://ieeexplore.ieee.org/document/10903202>
 
