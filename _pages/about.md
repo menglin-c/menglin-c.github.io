@@ -13,7 +13,7 @@ I received my B.S. degree from Huazhong University of Science and Technology, Wu
 
 I have received many international awards, including the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Award* in 2023, *ACES Young Scientist Award* in 2021, and several student paper awards. I have published 29 papers in top-tier journals (12 as first author, 8 as corresponding author) and 3 book chapters. One of my first-author papers in *Physical Review Letters* was selected as “Editors’ Suggestion” in 2022. Another first-author paper was selected as “the ESI Highly Cited Paper (top 1%)” in 2019. Another first-author paper in *Applied Sciences* was selected as “Featured Papers” in 2018. One of my second-author papers published in *Reviews in Physics* was listed as “the Top Cited Articles for publications since Jan. 2021” from 2023 to 2026. 
 
-My research interests include (i) Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals; (ii) Topological electromagnetics and its applications in microwave/millimeter wave engineering, and (iii) nNovel on-chip metasurface design for millimeter-wave communications and integrated systems.
+My research interests include (i) Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals; (ii) Topological electromagnetics and its applications in microwave/millimeter wave engineering, and (iii) Novel on-chip metasurface design for millimeter-wave communications and integrated systems.
 
 <br>
 
