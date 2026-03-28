@@ -25,7 +25,7 @@ My research interests include (i) Advanced electromagnetics-based interdisciplin
 （二）拓扑电磁学及其在微波/毫米波工程中的应用；
 （三）面向毫米波通信与集成系统的新型片上超表面设计。
 
-有意向者请将个人简历发送至 menglin@connect.hku.hk，并在邮件主题中注明姓名、拟申请职位及研究领域。
+**有意向者请将个人简历发送至 menglin@connect.hku.hk，并在邮件主题中注明姓名、拟申请职位及研究领域。**
 
 Welcome to join our new team at Shenzhen University!
 
