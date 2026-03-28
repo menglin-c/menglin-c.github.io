@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dr. CHEN Menglin"
-description              : description "Professor"
+description              : &description "Professor"
 url                      : https://menglin-c.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "menglin-c.github.io"
@@ -83,13 +83,13 @@ author:
   name             : "CHEN Menglin"
   avatar           : "Chen.jpg"
   bio              : ""
-  location         : "China"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BPc_pcAAAAAJ&hl=zh-CN&oi=ao"
   email            : "menglin@connect.hku.hk"
   researchgate     :  "https://www.researchgate.net/profile/Menglin-Ln-Chen"
-  uri              : "https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-chen-menglin/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
