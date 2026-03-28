@@ -27,7 +27,7 @@ My research interests include (i) Advanced electromagnetics-based interdisciplin
 
 有意向者请将个人简历发送至 menglin@connect.hku.hk，并在邮件主题中注明姓名、拟申请职位及研究领域。
 
-Welcome to join our new team at Shenzhen University!
+Welcome to join our new team at Shenzhen University!!
 
 <br>
 
