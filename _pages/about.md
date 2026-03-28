@@ -17,7 +17,6 @@ I have received many international awards, including the *URSI Young Scientist A
 
 My research interests include (i) Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals; (ii) Topological electromagnetics and its applications in microwave/millimeter wave engineering, and (iii) Novel on-chip metasurface design for millimeter-wave communications and integrated systems.
 
-***
 
 本团队现诚聘助理教授一名、研究员一名、博士后若干、科研助理若干，并热忱欢迎博士生、硕士生报考加入。团队依托射频异质异构集成全国重点实验室和毛军发院士团队，科研平台条件一流，经费充足，能为成员提供良好的发展支持。
 
@@ -26,7 +25,7 @@ My research interests include (i) Advanced electromagnetics-based interdisciplin
 （二）拓扑电磁学及其在微波/毫米波工程中的应用；
 （三）面向毫米波通信与集成系统的新型片上超表面设计。
 
-**有意向者请将个人简历发送至 menglin@connect.hku.hk，并在邮件主题中注明姓名、拟申请职位及研究领域。**
+有意向者请将个人简历发送至 menglin@connect.hku.hk，并在邮件主题中注明姓名、拟申请职位及研究领域。
 
 Welcome to join our new team at Shenzhen University!
 
