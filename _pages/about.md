@@ -17,7 +17,7 @@ I have received many international awards, including the *URSI Young Scientist A
 
 My research interests include (i) Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals; (ii) Topological electromagnetics and its applications in microwave/millimeter wave engineering, and (iii) Novel on-chip metasurface design for millimeter-wave communications and integrated systems.
 
----
+<hr>
 
 本团队现诚聘助理教授一名、研究员一名、博士后若干、科研助理若干，并热忱欢迎博士生、硕士生报考加入。团队依托射频异质异构集成全国重点实验室和毛军发院士团队，科研平台条件一流，经费充足，能为成员提供良好的发展支持。
 
