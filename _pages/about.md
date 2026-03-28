@@ -9,13 +9,23 @@ redirect_from:
   - /about.html
 ---
 
-I am transitioning from PolyU to Shenzhen University, where I serve as a Professor in the College of Electronics and Information Engineering. I am also affiliated with the National Key Laboratory of Radio Frequency Heterogeneous Integration, working in the team led by Professor Mao Junfa, a Member of the Chinese Academy of Sciences. Welcome to join our new team at Shenzhen University!
+I am transitioning from PolyU to Shenzhen University (深圳大学), where I serve as a Professor in the College of Electronics and Information Engineering. I am also affiliated with the National Key Laboratory of Radio Frequency Heterogeneous Integration, working in the team led by Professor Mao Junfa, a Member of the Chinese Academy of Sciences. Welcome to join our new team at Shenzhen University!
 
 I received my B.S. degree from Huazhong University of Science and Technology, Wuhan, China, the B.Eng. degree from the University of Birmingham, U.K., and the M.S. degree and Ph.D. degrees from the University of Hong Kong (HKU). I was an academic visitor at the School of Electronic Engineering and Computer Science at Queen Mary, University of London in 2017. I was a Postdoctoral Research Fellow at HKU from 2018 to 2022. Since 2022, I was a research assistant professor at the Hong Kong Polytechnic University. 
 
 I have received many international awards, including the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Award* in 2023, *ACES Young Scientist Award* in 2021, and several student paper awards. I have published 29 papers in top-tier journals (12 as first author, 8 as corresponding author) and 3 book chapters. One of my first-author papers in *Physical Review Letters* was selected as “Editors’ Suggestion” in 2022. Another first-author paper was selected as “the ESI Highly Cited Paper (top 1%)” in 2019. Another first-author paper in *Applied Sciences* was selected as “Featured Papers” in 2018. One of my second-author papers published in *Reviews in Physics* was listed as “the Top Cited Articles for publications since Jan. 2021” from 2023 to 2026. 
 
 My research interests include (i) Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals; (ii) Topological electromagnetics and its applications in microwave/millimeter wave engineering, and (iii) Novel on-chip metasurface design for millimeter-wave communications and integrated systems.
+
+本团队现诚聘助理教授一名、研究员一名、博士后若干、科研助理若干，并热忱欢迎博士生、硕士生报考加入。团队依托射频异质异构集成全国重点实验室和毛军发院士团队，科研平台条件一流，经费充足，能为成员提供良好的发展支持。
+
+研究方向包括但不限于：
+（一）基于先进电磁学的交叉学科研究，涵盖超材料、超表面、光子晶体等；
+（二）拓扑电磁学及其在微波/毫米波工程中的应用；
+（三）面向毫米波通信与集成系统的新型片上超表面设计。
+
+有意向者请将个人简历发送至 menglin@connect.hku.hk，并在邮件主题中注明姓名、拟申请职位及研究领域。
+
 
 <br>
 
@@ -38,30 +48,3 @@ My research interests include (i) Advanced electromagnetics-based interdisciplin
 
 <br>
 
-# Open for Applications
-
-I am looking actively for Ph.D., Research Associate, and Postdoctoral candidates. The detailed requirements are listed below. Interested researchers are welcomed to send me your CV via email (menglin.chen@polyu.edu.hk), indicating your name, research area, targeting post, and graduation instituition in the Email Subject.
-
-- **PhD candidates**
-
-1. Have comprehensive knowledge of electromagnetic theory and RF circuit development and design
-2. Undergraduate or higher education in the above or related disciplines (QS/THE/ARWU World Top-500 Universities or Top-150 Subjects, 1st degree GPA > 3.2/4.0 or Top 40% of class)
-3. Know and be familiar with commercial simulation software, such as MATLAB, ANSYS HFSS, and CST
-4. Have Experience in designing antennas or waveguide devices
-5. Good written and spoken English skills (IELTS: total score 6.5 or other equivalent test)
-
-- **Research Associate (meet at least one of 3 and 4)**
-
-1. At least a master's degree
-2. Have experience in antenna and RF circuit development and design
-3. Familiar with electromagnetic simulation software, such as ANSYS HFSS, CST, ADS and COMSOL
-4. Familiar with MATLAB programming
-
-- **Postdoctoral fellow (meet at least one of 3, 4, and 5)**
-
-1. Possess a doctoral degree
-2. Good ability to complete projects independently
-3. Possess a solid foundation of electromagnetic theory and experience in antenna design and measurement
-4. Familiar with electromagnetic simulation software, such as ANSYS HFSS, CST, ADS and COMSOL
-5. Familiar with MATLAB programming
-6. Excellent writing skills in both Chinese and English
