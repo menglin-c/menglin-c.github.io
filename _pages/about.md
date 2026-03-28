@@ -11,7 +11,7 @@ redirect_from:
 
 I am on a transiton from POLY to Shenzhen Univeristy, as a Professor in the Colledge of Electronics and Information Engineering. 
 
-我即将加入深圳大学
+
 
 I received my B.S. degree from Huazhong University of Science and Technology, Wuhan, China, the B.Eng. degree from the University of Birmingham, U.K., and the M.S. degree and Ph.D. degrees from the University of Hong Kong (HKU). I was an academic visitor at the School of Electronic Engineering and Computer Science at Queen Mary, University of London in 2017. I was a Postdoctoral Research Fellow at HKU from 2018 to 2022. Since 2022, I was a research assistant professor at the Hong Kong Polytechnic University. 
 
