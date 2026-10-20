@@ -33,8 +33,9 @@ Welcome to join our new team at Shenzhen University!!
 <br>
 
 # News
-- **[2026-01]** Our paper “Reconfigurable Topological Power Router Based on Interferometric Edge States” is accepted by *IEEE Transactions on Antennas and Propagation*. <https://ieeexplore.ieee.org/document/11393656>
-- **[2025-12]** Our paper “[Super-Robust Telecommunications Enabled by Topological Half-Supermodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202515157)” is accepted by ***Advanced Science***.  
+- **[2026-09]** Our paper “Transparent Topological Meta-Diplexer via Tightly Confined Valley Surface States” is accepted by **Advanced Science**. <https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77208>
+- **[2026-07]** Our paper “Latent-geometry correspondence: Unravelling hidden symmetry groups with graph theory” is accepted by **Physical Review Letters**. <https://journals.aps.org/prl/abstract/10.1103/hrdv-qcf6>
+- **[2025-12]** Our paper “[Super-Robust Telecommunications Enabled by Topological Half-Supermodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202515157)” is accepted by **Advanced Science**.  
 - **[2025-11]** Our paper “[An Autonomous Current Balancing Method for Interleaved DC/DC Converter in Wireless Power Transfer Systems](https://ieeexplore.ieee.org/document/11223892)” is accepted by *IEEE Transactions on Industrial Electronics*. 
 - **[2025-08]** I am pleased to announce that our student received the **IEEE APCAP Student Paper Award** in Christchurch, New Zealand. [[Link]](https://www.ieee-apcap.org/)
 - **[2025-02]** Our paper “[Microwave Photonic-Based Step Frequency Reflectometry for Electronic Circuit Defect Detection](https://ieeexplore.ieee.org/document/10903202)” is accepted by *IEEE Transactions on Microwave Theory and Techniques*. 
@@ -47,7 +48,7 @@ Welcome to join our new team at Shenzhen University!!
 - **[2023-08]** Our paper “Coexistence of large-area topological pseudospin and valley states in a tri-band heterostructure system” is accepted by *Optics Letters*. <https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.501977>
 - **[2023-07]** I am honored to receive the **PIERS Young Scientist Award** in Prague, Czech Republic. [[Link]](https://piers.org/awards/young-scientist-award.html)
 - **[2023-04]** Our paper “Large-area quantum-spin-Hall waveguide states in a three-layer topological photonic crystal heterostructure” is accepted by *Physical Review A*. <https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.L041501>
-- **[2022-09]** Our paper “Anomalous electromagnetic tunneling in bianisotropic ε-μ-zero media” is accepted by *Physical Review Letters* and selected as “Editors’ Suggestion”. <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901>
+- **[2022-09]** Our paper “Anomalous electromagnetic tunneling in bianisotropic ε-μ-zero media” is accepted by **Physical Review Letters** and selected as “Editors’ Suggestion”. <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901>
 
 <br>
 
