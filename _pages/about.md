@@ -33,8 +33,8 @@ Welcome to join our new team at Shenzhen University!!
 <br>
 
 # News
-- **[2026-09]** Our paper “Transparent Topological Meta-Diplexer via Tightly Confined Valley Surface States” is accepted by **Advanced Science**. <https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77208>
-- **[2026-07]** Our paper “Latent-geometry correspondence: Unravelling hidden symmetry groups with graph theory” is accepted by **Physical Review Letters**. <https://journals.aps.org/prl/abstract/10.1103/hrdv-qcf6>
+- **[2026-09]** Our paper “[Transparent Topological Meta-Diplexer via Tightly Confined Valley Surface States](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77208)” is accepted by **Advanced Science**.
+- **[2026-07]** Our paper “[Latent-geometry correspondence: Unravelling hidden symmetry groups with graph theory](https://journals.aps.org/prl/abstract/10.1103/hrdv-qcf6)” is accepted by **Physical Review Letters**.
 - **[2025-12]** Our paper “[Super-Robust Telecommunications Enabled by Topological Half-Supermodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202515157)” is accepted by **Advanced Science**.  
 - **[2025-11]** Our paper “[An Autonomous Current Balancing Method for Interleaved DC/DC Converter in Wireless Power Transfer Systems](https://ieeexplore.ieee.org/document/11223892)” is accepted by **IEEE Transactions on Industrial Electronics**. 
 - **[2025-08]** I am pleased to announce that our student received the **IEEE APCAP Student Paper Award** in Christchurch, New Zealand. [[Link]](https://www.ieee-apcap.org/)
