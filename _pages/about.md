@@ -33,7 +33,7 @@ Welcome to join our new team at Shenzhen University!!
 <br>
 
 # News
-- **[2026-09]** $\color{#B22222}{\text{We have openings for Master, PhD students and postdocs!}}$
+- **[2026-09]** $\color{red}{\text{We have openings for Master, PhD students and postdocs!}}$
   Join us for physics-driven research on advanced electromagnetics, including structured light, topological photonics and mm-wave integrated systems.
 - **[2026-09]** Our paper “[Transparent Topological Meta-Diplexer via Tightly Confined Valley Surface States](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77208)” is accepted by **Advanced Science**.
 - **[2026-07]** Our paper “[Latent-geometry correspondence: Unravelling hidden symmetry groups with graph theory](https://journals.aps.org/prl/abstract/10.1103/hrdv-qcf6)” is accepted by **Physical Review Letters**.
