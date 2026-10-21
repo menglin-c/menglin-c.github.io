@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Profesor in the Shool of Integrated Circuits in **Shenzhen University (深圳大学)**. I am also affiliated with **the National Key Laboratory of Radio Frequency Heterogeneous Integration (射频异质异构集成全国重点实验室)**, working in the team led by Professor Mao Junfa, a Member of the Chinese Academy of Sciences. 
+I am currently a Professor in the Shool of Integrated Circuits in **Shenzhen University (深圳大学)**. I am also affiliated with **the National Key Laboratory of Radio Frequency Heterogeneous Integration (射频异质异构集成全国重点实验室)**, working in the team led by Professor Mao Junfa, a Member of the Chinese Academy of Sciences. 
 
 I received my B.S. degree from Huazhong University of Science and Technology, Wuhan, China, the B.Eng. degree from the University of Birmingham, U.K., and the M.S. degree and Ph.D. degrees from the University of Hong Kong (HKU). I was an academic visitor at the School of Electronic Engineering and Computer Science at Queen Mary, University of London in 2017. I was a Postdoctoral Research Fellow at HKU from 2018 to 2022. I was a research assistant professor at the Hong Kong Polytechnic University from 2022 to 2025. 
 
