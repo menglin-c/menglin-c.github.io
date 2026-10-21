@@ -4,6 +4,26 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+  /* 统一论文列表的字体大小和行间距 */
+  .page__content ul li {
+    font-size: 15px !important;      /* 这里调整字号大小，觉得大就改14px */
+    line-height: 1.6 !important;     /* 行高，让文字不挤在一起 */
+    margin-bottom: 12px !important;  /* 每篇论文之间的间距 */
+    text-align: justify;             /* 两端对齐，排版更整齐 */
+  }
+
+  /* 让列表里的超链接字体大小与周围保持一致 */
+  .page__content ul li a {
+    font-size: inherit !important; 
+  }
+
+  /* 可选：调整 "## Journal Papers" 这个二级标题的字体大小 */
+  .page__content h2 {
+    font-size: 20px !important;
+    margin-top: 20px !important;
+  }
+</style>
 
 ## Journal Papers
 -  X. Zhang, R. Ye, **M. L. N. Chen**, Y. Bi, H.-C. Chan, Z. Lin, S. Ma, and S. Zhang, “[Anomalous electromagnetic tunneling in bianisotropic $\varepsilon$-μ-zero media](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901),” *Physical Review Letters*, vol. 129, no. 12, pp. 123901, Sep. 2022.
