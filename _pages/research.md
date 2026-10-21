@@ -4,17 +4,19 @@ title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
-1. Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals.
+1. Vortex wave and structured light field manipulation based on metamaterials and metasurfaces.
 
 
-2. Exploration of topological electromagnetic effects and their applications in microwave/millimeter wave engineering.
+2. Interdisciplinary research of topological photonics and advanced electromagnetics, with applications in microwave and millimeter wave engineering.
 
 
-3. Novel antenna and transmission line design and applications.
+3. Innovative on chip metasurface designs for millimeter wave communications and integrated systems.
 
 <br>
 
 # Grants
+-	Jul. 2026 – Jun. 2028,  **射频异质异构集成全国重点实验室自主课题**, **PI:** 面向毫米波通信的高工艺容差拓扑SIW 器件设计方法研究, RMB$ 150,000.
+
 -	Jan. 2025 – Dec. 2027,  **广东省基金委 (自然科学基金面上项目)**, **PI:** 基于拓扑能带调控的导波型电磁超表面理论与设计研究, RMB$ 100,000.
 
 -	Jan. 2024 – Dec. 2026,  **NSFC (青年科学基金项目)**, **PI:** 基于拓扑电磁结构的波导器件多物理理论及应用研究, RMB$ 300,000.
