@@ -35,7 +35,6 @@ Join us for physics-driven research!
 
 期待有志于做前沿物理与工程交叉研究的青年才俊加入！**有意向者请将个人简历发送至 menglin@connect.hku.hk，并在邮件主题中注明姓名、拟申请职位及研究领域。**
 
-Welcome to join our new team at Shenzhen University!!
 
 <br>
 
