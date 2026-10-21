@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<div style="font-size: 14px; line-height: 1.6; text-align: justify;">
+<div style="font-size: 12px; line-height: 1.6; text-align: justify;">
 
 ## Journal Papers
 -  X. Zhang, R. Ye, **M. L. N. Chen**, Y. Bi, H.-C. Chan, Z. Lin, S. Ma, and S. Zhang, “[Anomalous electromagnetic tunneling in bianisotropic $\varepsilon$-μ-zero media](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901),” *Physical Review Letters*, vol. 129, no. 12, pp. 123901, Sep. 2022.
