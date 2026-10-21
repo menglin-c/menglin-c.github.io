@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## Journal Papers
--  X. Zhang, R. Ye, M. Rötgen, **M. L. N. Chen**, S.-H. Wei, S. Zhang, and W. Gao, “[Latentgeometry
+-  X. Zhang, R. Ye, M. R&ouml;tgen, **M. L. N. Chen**, S.-H. Wei, S. Zhang, and W. Gao, “[Latentgeometry
 correspondence: Unravelling hidden symmetry groups with graph theory](https://journals.aps.org/prl/abstract/10.1103/hrdv-qcf6),” *Physical Review Letters*, vol. 137, no. 15, pp. 056602, Jul. 2026.
 -  X. Zhang, S. Li, C. Yu, W. Gao, and **M. L. N. Chen**, “[Reconfigurable Topological Power Router Based on Interferometric Edge States](https://ieeexplore.ieee.org/document/11393656),” *IEEE Transactions on Antennas and Propagation*, vol. 74, no. 5, pp. 4985-4989,  Feb. 2026. **[Corresponding author]**
 -  Z. Xu, **M. L. N. Chen**, K. Li, M. Wang, X. Su, and Z. Xu, “[An Autonomous Current Balancing Method for Interleaved DC/DC Converter in Wireless Power Transfer Systems](https://ieeexplore.ieee.org/document/11223892),” *IEEE Transactions on Industrial Electronics*, vol. 73, no. 3, pp. 3541-3552, Mar. 2026. **[Corresponding author]**
