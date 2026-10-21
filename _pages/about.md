@@ -15,7 +15,7 @@ I received my B.S. degree from Huazhong University of Science and Technology, Wu
 
 I am a recipient of the Excellent Young Scientists Fund Program (Overseas). I have received many international awards, including the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Award* in 2023, *ACES Young Scientist Award* in 2021, and several student paper awards. I have published over 30 papers in top-tier journals, among which more than 20 papers are first author or corresponding author articles, appearing in Physical Review Letters, Advanced Science, Laser & Photonics Reviews, IEEE Trans. Antennas Propag., IEEE Trans. Microwave Theory Tech. and so on. 
 
-My research interests cover three main directions: (i) Vortex wave and structured light field manipulation based on metamaterials and metasurfaces; (ii) Interdisciplinary research of topological photonics and advanced electromagnetics, with applications in microwave and millimeter wave engineering; and (iii) Innovative on chip metasurface designs for millimeter wave communications and integrated systems.
+My research interests cover three main directions: (i) Vortex wave and structured light field manipulation based on metamaterials and metasurfaces; (ii) Interdisciplinary research of topological photonics and advanced electromagnetics, with applications in microwave and millimeter wave engineering; and (iii) Innovative on-chip metasurface designs for millimeter wave communications and integrated systems.
 
 <hr style="border-top: 2px solid #ccc;">
 
