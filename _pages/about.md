@@ -9,17 +9,17 @@ redirect_from:
   - /about.html
 ---
 
-I am transitioning from PolyU to **Shenzhen University (深圳大学)**, where I serve as a Professor in the College of Electronics and Information Engineering. I am also affiliated with **the National Key Laboratory of Radio Frequency Heterogeneous Integration (射频异质异构集成全国重点实验室)**, working in the team led by Professor Mao Junfa, a Member of the Chinese Academy of Sciences. 
+I am currently a Profesor in the Shool of Integrated Circuits in **Shenzhen University (深圳大学)**. I am also affiliated with **the National Key Laboratory of Radio Frequency Heterogeneous Integration (射频异质异构集成全国重点实验室)**, working in the team led by Professor Mao Junfa, a Member of the Chinese Academy of Sciences. 
 
-I received my B.S. degree from Huazhong University of Science and Technology, Wuhan, China, the B.Eng. degree from the University of Birmingham, U.K., and the M.S. degree and Ph.D. degrees from the University of Hong Kong (HKU). I was an academic visitor at the School of Electronic Engineering and Computer Science at Queen Mary, University of London in 2017. I was a Postdoctoral Research Fellow at HKU from 2018 to 2022. Since 2022, I was a research assistant professor at the Hong Kong Polytechnic University. 
+I received my B.S. degree from Huazhong University of Science and Technology, Wuhan, China, the B.Eng. degree from the University of Birmingham, U.K., and the M.S. degree and Ph.D. degrees from the University of Hong Kong (HKU). I was an academic visitor at the School of Electronic Engineering and Computer Science at Queen Mary, University of London in 2017. I was a Postdoctoral Research Fellow at HKU from 2018 to 2022. I was a research assistant professor at the Hong Kong Polytechnic University from 2022 to 2025. 
 
-I have received many international awards, including the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Award* in 2023, *ACES Young Scientist Award* in 2021, and several student paper awards. I have published 29 papers in top-tier journals (12 as first author, 8 as corresponding author) and 3 book chapters. One of my first-author papers in *Physical Review Letters* was selected as “Editors’ Suggestion” in 2022. Another first-author paper was selected as “the ESI Highly Cited Paper (top 1%)” in 2019. Another first-author paper in *Applied Sciences* was selected as “Featured Papers” in 2018. One of my second-author papers published in *Reviews in Physics* was listed as “the Top Cited Articles for publications since Jan. 2021” from 2023 to 2026. 
+I am a recipient of the Excellent Young Scientists Fund Program (Overseas). I have received many international awards, including the *URSI Young Scientist Award* in 2024, *PIERS Young Scientist Award* in 2023, *ACES Young Scientist Award* in 2021, and several student paper awards. I have published over 30 papers in top-tier journals, among which more than 20 papers are first author or corresponding author articles, appearing in Physical Review Letters, Advanced Science, Laser & Photonics Reviews, IEEE Trans. Antennas Propag., IEEE Trans. Microwave Theory Tech. and so on. 
 
-My research interests include (i) Advanced electromagnetics-based interdisciplinary research, including those in metamaterials, metasurfaces, and photonic crystals; (ii) Topological electromagnetics and its applications in microwave/millimeter wave engineering, and (iii) Novel on-chip metasurface design for millimeter-wave communications and integrated systems.
+My research interests cover three main directions: (i) Vortex wave and structured light field manipulation based on metamaterials and metasurfaces; (ii) Interdisciplinary research of topological photonics and advanced electromagnetics, with applications in microwave and millimeter wave engineering; and (iii) Innovative on chip metasurface designs for millimeter wave communications and integrated systems.
 
 <hr style="border-top: 2px solid #ccc;">
 
-本团队现诚聘助理教授一名、研究员一名、博士后若干、科研助理若干，并热忱欢迎博士生、硕士生报考加入。团队依托射频异质异构集成全国重点实验室和毛军发院士团队，科研平台条件一流，经费充足，能为成员提供良好的发展支持。
+本团队现诚聘助理教授、研究员、博士后、科研助理，并热忱欢迎博士生、硕士生报考加入。团队依托射频异质异构集成全国重点实验室和毛军发院士团队，科研平台条件一流，经费充足，能为成员提供良好的发展支持。
 
 研究方向包括但不限于：
 （一）基于先进电磁学的交叉学科研究，涵盖超材料、超表面、光子晶体等；
