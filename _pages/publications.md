@@ -1,5 +1,3 @@
-markdown
-
 ---
 layout: archive
 title: "Publications"
