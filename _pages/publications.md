@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="font-size: 14px; line-height: 1.8; text-align: justify;" markdown="1">
+<div style="font-size: 16px; line-height: 1.8; text-align: justify;" markdown="1">
 
 
 ## Journal Papers
