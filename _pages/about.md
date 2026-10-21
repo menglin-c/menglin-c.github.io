@@ -19,7 +19,7 @@ My research interests cover three main directions: (i) Vortex wave and structure
 
 <hr style="border-top: 2px solid #ccc;">
 
-$\color{red}{\text{本团队现诚聘助理教授、研究员、博士后、科研助理，并热忱欢迎博士生、硕士生报考加入。}}$
+$\color{red}{\text{本团队现诚聘助理教授、研究员、博士后、科研助理，并热忱欢迎博士生、硕士生报考加入！}}$
 
 Join us for physics-driven research! 
 我们致力于物理驱动（Physics-driven）的先进电磁学研究，涵盖结构光调控、拓扑光子学及毫米波集成系统。课题组不仅做工程落地，更强调探究底层机理。无论你是物理背景还是工程背景，只要对探索物理本源与工程实现充满热情，我们都极度欢迎！
