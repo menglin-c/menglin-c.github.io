@@ -9,6 +9,6 @@ main:
   - title: "Awards"
     url: /awards/    
 
-  - title: "Group"
-    url: /group/
+#  - title: "Group"
+#    url: /group/
     
