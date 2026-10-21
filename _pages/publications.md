@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="font-size: 16px; line-height: 1.8; text-align: justify;" markdown="1">
+<div style="font-size: 12px; line-height: 1.8; text-align: justify;" markdown="1">
 
 
 ## Journal Papers
@@ -53,3 +53,5 @@ author_profile: true
 -	 **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “[Novel Complementary Metasurfaces for the Orbital Angular Momentum Generation](https://ieeexplore.ieee.org/abstract/document/7916014),” *2017 International Applied Computational Electromagnetics Society (ACES) Symposium*, Firenze, Italy, Mar. 2017. (**_3rd Place of Best Student Paper_**)
 -	 **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “Orbital Angular Momentum Generation for Microwaves by Composite PEC-PMC Metasurfaces,” *the 17th IEEE MACAU/HK AP/MTT Postgraduate Conference*, Macau, Sep. 2016. (**_3rd Place of Best Student Paper in AP Session_**)
 -	 **M. L. N. Chen**, L. J. Jiang, and W. E. I. Sha, “[Orbital Angular Momentum Generation Using a Bi-Layered Complementary Metasurface with a High Conversion Efficiency](http://www.zjuisee.zju.edu.cn/weisha/Publications/Files/Chen_FERMAT.pdf),” *Progress In Electromagnetics Research Symposium*, Shanghai, China, Aug. 2016. (**_Invited Talk_**)
+
+</div>
