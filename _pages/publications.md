@@ -9,7 +9,8 @@ author_profile: true
 
 
 ## Journal Papers
--  X. Zhang, R. Ye, **M. L. N. Chen**, Y. Bi, H.-C. Chan, Z. Lin, S. Ma, and S. Zhang, “[Anomalous electromagnetic tunneling in bianisotropic $\varepsilon$-μ-zero media](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901),” *Physical Review Letters*, vol. 129, no. 12, pp. 123901, Sep. 2022.
+-  X. Zhang, R. Ye, M. Rötgen, **M. L. N. Chen**, S.-H. Wei, S. Zhang, and W. Gao, “[Latentgeometry
+correspondence: Unravelling hidden symmetry groups with graph theory](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123901),” *Physical Review Letters*, vol. 137, no. 15, pp. 056602, Jul. 2026.
 -  X. Zhang, S. Li, C. Yu, W. Gao, and **M. L. N. Chen**, “[Reconfigurable Topological Power Router Based on Interferometric Edge States](https://ieeexplore.ieee.org/document/11393656),” *IEEE Transactions on Antennas and Propagation*, vol. 74, no. 5, pp. 4985-4989,  Feb. 2026. **[Corresponding author]**
 -  Z. Xu, **M. L. N. Chen**, K. Li, M. Wang, X. Su, and Z. Xu, “[An Autonomous Current Balancing Method for Interleaved DC/DC Converter in Wireless Power Transfer Systems](https://ieeexplore.ieee.org/document/11223892),” *IEEE Transactions on Industrial Electronics*, vol. 73, no. 3, pp. 3541-3552, Mar. 2026. **[Corresponding author]**
 -  R. Zhou, X. Shi, H. Lin, Y. Ren, H. Liu, Z. Yu, J. Jin, Z. Lan, and **M. L. N. Chen**, “[Super-Robust Telecommunications Enabled by Topological Half-Supermodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202515157),” *Advanced Science*, vol. 13, no. 13, e15157, Jan. 2026. **[Corresponding author]**
