@@ -9,6 +9,7 @@ author_profile: true
 
 
 ## Journal Papers
+-  Y. Guo, **M. L. N. Chen**, M. Lin, and W. Lin, “[High-Resolution Sensing System Based on Ultra-Short Pulse Laser and 1-Bit RF Sampling](https://ieeexplore.ieee.org/document/11753570),” *Journal of Lightwave Technology*, Early Access, Oct. 2026. **[Corresponding author]**
 -  S. Li, P. Li, Z. Lan, Y. Li, H. Wong, and **M. L. N. Chen**, “[Transparent Topological Meta-Diplexer via Tightly Confined Valley Surface States](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77208),” *Advanced Science*, Early View, Sep. 2026. **[Corresponding author]**
 -  X. Zhang, R. Ye, M. R&ouml;tgen, **M. L. N. Chen**, S.-H. Wei, S. Zhang, and W. Gao, “[Latent-geometry correspondence: Unravelling hidden symmetry groups with graph theory](https://journals.aps.org/prl/abstract/10.1103/hrdv-qcf6),” *Physical Review Letters*, vol. 137, no. 15, pp. 056602, Jul. 2026. **[Corresponding author]**
 -  X. Zhang, S. Li, C. Yu, W. Gao, and **M. L. N. Chen**, “[Reconfigurable Topological Power Router Based on Interferometric Edge States](https://ieeexplore.ieee.org/document/11393656),” *IEEE Transactions on Antennas and Propagation*, vol. 74, no. 5, pp. 4985-4989,  Feb. 2026. **[Corresponding author]**
